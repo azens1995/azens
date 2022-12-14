@@ -1,0 +1,22 @@
+{
+  "name": "azens",
+  "version": "1.0.0",
+  "description": "Simple CLI application that displays name",
+  "main": "index.js",
+  "bin": {
+    "eklak": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azens1995/azens.git"
+  },
+  "author": "Eklak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azens1995/azens/issues"
+  },
+  "homepage": "https://github.com/azens1995/azens#readme"
+}
