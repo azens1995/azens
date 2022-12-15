@@ -1,6 +1,6 @@
 {
   "name": "azens",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Simple CLI application that displays name",
   "main": "index.js",
   "bin": {
