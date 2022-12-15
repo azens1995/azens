@@ -1,6 +1,6 @@
 {
   "name": "azens",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Simple CLI application that displays name",
   "main": "index.js",
   "bin": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/azens1995/azens/issues"
   },
-  "homepage": "https://github.com/azens1995/azens#readme"
+  "homepage": "https://github.com/azens1995/azens#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
