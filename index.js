@@ -1,4 +1,12 @@
 #!/usr/bin/env node
+const pkgJSON = require('./package.json');
+
+console.log(`
+NAME: ${pkgJSON.name},
+VERSION: ${pkgJSON.version},
+AUTHOR: ${pkgJSON.author},
+INFO: ${pkgJSON.description}
+`);
 
 console.log(`
 Eklak Dangaura - Software Engineer
